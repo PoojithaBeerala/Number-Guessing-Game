@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image:url("C://Users//Pooja//Desktop//Guessinggame.png");
+    background-size: cover;
+    height: 50vh;
+    background-position : center;
+}
+
+.container {
+    max-width: 400px;
+    margin: 200px auto;
+    margin-left: 100px;
+    padding: 20px;
+    background-color:black;
+    border-radius: 10px;
+    text-align: center;
+}
+h2{
+    color: #ec0c78;
+}
+
+h1 {
+    color: #db1a1a;
+}
+
+input[type="number"] {
+    width: 70%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #ff004c;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #317bca;
+}
+
+#message {
+    margin-top: 20px;
+}
+p{
+    color: blue;
+}
